@@ -1,0 +1,1 @@
+UPDATE `bd-ucmrails`.`cliente` SET saldo = 100 WHERE dni = '12345678C';

@@ -1,0 +1,1 @@
+SELECT * FROM `bd-ucmrails`.`billete`;
